@@ -1,0 +1,17 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:item": {
+		"components": {
+			"minecraft:use_duration": 33,
+			"minecraft:food": {
+				"nutrition": 6.2,
+				"saturation_modifier": "low"
+			},
+			"minecraft:use_animation": "eat",
+			"minecraft:render_offsets": "apple"
+		},
+		"description": {
+			"identifier": "mcdees:chocolate_milkshake"
+		}
+	}
+}

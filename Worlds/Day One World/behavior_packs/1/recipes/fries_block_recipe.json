@@ -1,0 +1,23 @@
+{
+	"format_version": "",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "mcdees:fries_block_recipe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "mcdees:fries",
+				"count": 9
+			}
+		],
+		"result": [
+			{
+				"item": "mcdees:fries_block",
+				"count": 1
+			}
+		]
+	}
+}

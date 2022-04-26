@@ -1,0 +1,10 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:block": {
+		"description": {
+			"identifier": "mcdees:mcdonalds_wallpaper",
+			"is_experimental": false
+		},
+		"components": {}
+	}
+}
