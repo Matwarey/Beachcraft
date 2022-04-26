@@ -1,0 +1,75 @@
+{
+	"format_version": "1.10.0",
+	"animations": {
+		"animation.onJoin": {
+			"timeline": {
+				"9.0": [
+					// Settings Objectives
+					"/scoreboard objectives add cmds dummy",
+					"/scoreboard players add @s cmds 0",
+					"/scoreboard objectives add gma dummy",
+					"/scoreboard players add @s gma 0",
+					"/scoreboard objectives add gms dummy",
+					"/scoreboard players add @s gms 0",
+					"/scoreboard objectives add gmc dummy",
+					"/scoreboard players add @s gmc 0",
+					"/scoreboard objectives add commandblocks dummy",
+					"/scoreboard players add @s commandblocks 0",
+					"/scoreboard objectives add bedrock dummy",
+					"/scoreboard players add @s bedrock 0",
+					"/scoreboard objectives add worldborder dummy",
+					"/scoreboard players add @s worldborder 0",
+					"/scoreboard objectives add npc dummy",
+					"/scoreboard players add @s npc 0",
+					"/scoreboard objectives add xray dummy",
+					"/scoreboard players add @s xray 0",
+					"/scoreboard objectives add autoclicker dummy",
+					"/scoreboard players add @s autoclicker 0",
+					"/scoreboard objectives add gametestapi dummy",
+					"/scoreboard players add @s gametestapi 0",
+					"/scoreboard objectives add autoban dummy",
+					"/scoreboard players add @s autoban 0",
+					"/scoreboard objectives add invalidsprint dummy",
+					"/scoreboard players add @s invalidsprint 0",
+					// Setting Operations For Objective Types
+					"/scoreboard players operation @a npc = scythe:config npc",
+					"/scoreboard players operation @a commandblocks = scythe:config commandblocks",
+					"/scoreboard players operation @a worldborder = scythe:config worldborder",
+					"/scoreboard players operation @a gma = scythe:config gma",
+					"/scoreboard players operation @a gmc = scythe:config gmc",
+					"/scoreboard players operation @a gms = scythe:config gms",
+					"/scoreboard players operation @a cmds = scythe:config cmds",
+					"/scoreboard players operation @a bedrock = scythe:config bedrock",
+					"/scoreboard players operation @a xray = scythe:config xray",
+					"/scoreboard players operation @a autoclicker = scythe:config autoclicker",
+					"/scoreboard players operation @a gametestapi = scythe:config gametestapi",
+					"/scoreboard players operation @a autoban = scythe:config autoban",
+					"/scoreboard players operation @a invalidsprint = scythe:config invalidsprint",
+					// Anticheat Objectives
+					"/scoreboard objectives add autototemvl dummy",
+					"/scoreboard objectives add invmovevl dummy",
+					"/scoreboard objectives add attacks dummy",
+					"/scoreboard objectives add autoclickervl dummy",
+					"/scoreboard objectives add attack_timer dummy",
+					"/scoreboard objectives add right dummy",
+					"/scoreboard objectives add cbevl dummy",
+					"/scoreboard objectives add gamemodevl dummy",
+					"/scoreboard objectives add illegalitemsvl dummy",
+					"/scoreboard objectives add killauravl dummy",
+					"/scoreboard objectives add xPos dummy",
+					"/scoreboard objectives add yPos dummy",
+					"/scoreboard objectives add zPos dummy",
+					"/scoreboard objectives add anglevl dummy",
+					"/scoreboard objectives add invalidsprintvl dummy",
+					"/scoreboard objectives add flyvl dummy",
+					"/scoreboard objectives add last_attack dummy",
+					// If enabled from previous login then activate
+					"/event entity @s[tag=vanish] vanish",
+					"/ability @s[tag=flying] mayfly true"
+				]
+			},
+			"animation_length": 9.9,
+			"loop": false
+		}
+	}
+}
