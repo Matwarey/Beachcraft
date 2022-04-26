@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§eBeachCraft Resource",
+        "name": "§¶§cBeachCraft ► §eBeachCraft's Resource Pack",
+        "uuid": "ca1b6323-2a59-4dee-8f15-1e1971e83852",
+        "version": [1, 5, 35]
+    },
+    "modules": [
+        {
+            "description": "§eBeachCraft Resource",
+            "type": "resources",
+            "uuid": "0347f1d2-9b74-4036-82de-53062337ee49",
+            "version": [1, 5, 35]
+        }
+    ]
+}
