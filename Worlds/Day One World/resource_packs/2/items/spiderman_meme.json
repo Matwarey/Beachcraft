@@ -1,0 +1,13 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "mcdees:spiderman_meme",
+			"category": "nature",
+			"is_experimental": false
+		},
+		"components": {
+			"minecraft:icon": "mcdees_spiderman_meme"
+		}
+	}
+}

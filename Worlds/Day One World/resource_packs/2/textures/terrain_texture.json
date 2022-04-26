@@ -1,0 +1,14 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Meteors Mcdonalds Addon",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"mcdees_fries_block": {
+			"textures": "textures/blocks/Chips Block"
+		},
+		"mcdees_mcdonalds_wallpaper": {
+			"textures": "textures/blocks/mcdonald's wallpaper"
+		}
+	}
+}

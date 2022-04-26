@@ -1,0 +1,76 @@
+{
+	"entity_sounds": {
+		"entities": {
+			"mcdees:cool_beans": {
+				"volume": 1,
+				"pitch": [
+					0.8,
+					1.2
+				],
+				"events": {
+					"ambient": "mob.cool_beans.say",
+					"hurt": "mob.cool_beans.hurt",
+					"death": "mob.cool_beans.hurt",
+					"step": {
+						"sound": "mob.cool_beans.step",
+						"volume": 0.15,
+						"pitch": 1
+					}
+				}
+			},
+			"mcdees:big_man": {
+				"volume": 0.1,
+				"pitch": [
+					0.76,
+					1.14
+				],
+				"events": {
+					"ambient": "mob.big_man.idle",
+					"hurt": "mob.big_man.hurt",
+					"death": "mob.big_man.death",
+					"takeoff": {
+						"sound": "mob.big_man.takeoff",
+						"volume": 0.05,
+						"pitch": [
+							0.8,
+							1.2
+						]
+					}
+				}
+			},
+			"mcdees:mcdonalds_villager": {
+				"volume": 1,
+				"pitch": [
+					0.8,
+					1.2
+				],
+				"events": {
+					"ambient": "mob.mcdonalds_villager.idle",
+					"hurt": "mob.mcdonalds_villager.hit",
+					"death": "mob.mcdonalds_villager.death",
+					"death.to.zombie": "mob.mcdonalds_villager.death",
+					"haggle": "mob.mcdonalds_villager.haggle",
+					"haggle.yes": "mob.mcdonalds_villager.yes",
+					"haggle.no": "mob.mcdonalds_villager.no"
+				}
+			},
+			"mcdees:monopoly_hat": {
+				"volume": 1,
+				"pitch": [
+					0.8,
+					1.2
+				],
+				"events": {
+					"ambient": "mob.monopoly_hat.say",
+					"hurt": "mob.monopoly_hat.hurt",
+					"death": "mob.monopoly_hat.hurt",
+					"step": {
+						"sound": "mob.monopoly_hat.step",
+						"volume": 0.15,
+						"pitch": 1
+					}
+				}
+			}
+		}
+	}
+}

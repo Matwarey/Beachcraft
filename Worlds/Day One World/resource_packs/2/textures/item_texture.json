@@ -1,0 +1,33 @@
+{
+	"resource_pack_name": "Meteors Mcdonalds Addon",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"mcdees_mcdonalds_hat": {
+			"textures": "textures/items/Mcdonald's Hat"
+		},
+		"mcdees_spiderman_meme": {
+			"textures": "textures/items/Spiderman meme"
+		},
+		"mcdees_mcdonalds_monopoly_game_piece": {
+			"textures": "textures/items/Mcdonalds Monopoly"
+		},
+		"mcdees_fries": {
+			"textures": "textures/items/Chips"
+		},
+		"mcdees_big_mac": {
+			"textures": "textures/items/Big Mac"
+		},
+		"mcdees_happy_meal": {
+			"textures": "textures/items/Happy Meal"
+		},
+		"mcdees_chicken_mayo_burger": {
+			"textures": "textures/items/Chicken Mayo Burger"
+		},
+		"mcdees_chicken_nuggets": {
+			"textures": "textures/items/mcnuggets"
+		},
+		"mcdees_chocolate_milkshake": {
+			"textures": "textures/items/Chocolate Milk Shake"
+		}
+	}
+}

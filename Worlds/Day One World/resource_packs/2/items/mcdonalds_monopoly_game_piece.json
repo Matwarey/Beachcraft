@@ -1,0 +1,13 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "mcdees:mcdonalds_monopoly_game_piece",
+			"category": "nature",
+			"is_experimental": false
+		},
+		"components": {
+			"minecraft:icon": "mcdees_mcdonalds_monopoly_game_piece"
+		}
+	}
+}

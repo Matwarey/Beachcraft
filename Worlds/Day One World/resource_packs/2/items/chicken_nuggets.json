@@ -1,0 +1,13 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "mcdees:chicken_nuggets",
+			"category": "nature",
+			"is_experimental": false
+		},
+		"components": {
+			"minecraft:icon": "mcdees_chicken_nuggets"
+		}
+	}
+}

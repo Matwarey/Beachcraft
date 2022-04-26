@@ -1,0 +1,39 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Meteor 251"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.1.5"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			17,
+			0
+		],
+		"uuid": "7b9eec71-9a72-48ed-ad6d-59a7202bc7f9",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "05e6e790-fbc4-44bd-8d9c-0f6c6d8703f6",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

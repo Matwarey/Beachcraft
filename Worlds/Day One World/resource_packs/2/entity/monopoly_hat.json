@@ -1,0 +1,24 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "mcdees:monopoly_hat",
+			"materials": {
+				"default": "cow"
+			},
+			"textures": {
+				"default": "textures/entity/hat Texture"
+			},
+			"geometry": {
+				"default": "geometry.gamer"
+			},
+			"render_controllers": [
+				"controller.render.monopoly_hat"
+			],
+			"spawn_egg": {
+				"base_color": "#000000",
+				"overlay_color": "#FFFFFF"
+			}
+		}
+	}
+}
