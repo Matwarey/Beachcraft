@@ -1,0 +1,56 @@
+[Mystic Rain Pack]
+
+バージョン： マインクラフト岩盤版1.16+互換性
+作成者： Kao
+ウェブサイト： https://kaomc.carrd.co/
+
+最終更新日: 11/09/20
+
+クリエイティブ・コモンズ・ディスプレイ: 非営利団体 - 相続
+
+非商業的な目的でのみ変更または配布できるCCライセンス、および著者のクレジット(名前、タイトルなど)が表示され、変更された場合のオリジナル作品と同じCCライセンスの組み合わせで公開される主な条件で。
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.ja
+
+-----
+
+Version: 1.0 - Compatible with Minecraft Bedrock Edition 1.16+
+Creator: Kao
+Website: https://kaomc.carrd.co/
+
+Last Updated: 11/09/20
+
+Creative Commons Display: Non-Profit - Inheritance
+
+CC license that can be modified or distributed only for non-commercial purposes and on the main condition that the author's credit (name, title, etc.) is displayed and published with the same combination of CC licenses as the original work when modified.
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.ja
+
+-----
+
+I have taken short clips from each of these original sounds to create this pack:
+
+115254__matucha__rain - CC BY 3.0
+https://www.freesound.org/people/matucha/sounds/115254/
+140294__sean-townsend__rain - CC BY 3.0
+https://www.freesound.org/people/sean.townsend/sounds/140294/
+198856__bone666138__rain-1 - CC BY 3.0
+https://www.freesound.org/people/bone666138/sounds/198856/
+194849__aaronstar__nm-mejor-lado-thunder-01
+CC0 1.0 - https://www.freesound.org/people/aaronstar/sounds/194849/
+195522__sarson__distant-thunder - CC0 1.0
+https://www.freesound.org/people/sarson/sounds/195522/
+198857__bone666138__thunder-1 - CC BY 3.0
+https://www.freesound.org/people/bone666138/sounds/198857/
+198858__bone666138__thunder-2 - CC BY 3.0
+https://www.freesound.org/people/bone666138/sounds/198858/
+253953__yoyodaman234__thunder-1 - CC0 1.0
+https://www.freesound.org/people/Yoyodaman234/sounds/253953/
+37774__swuing__donner1 - CC BY 3.0
+https://www.freesound.org/people/swuing/sounds/37774/
+
+-----
+
+[Include this LICENSE.txt if you're redistributing the pack. Leave your notes down below.]
+
+Redistrubutor('s)(s) Note:

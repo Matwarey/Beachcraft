@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Better Rain Immersion for Minecraft • kaomc.carrd.co",
+        "name": "§3Mystic§f Rain Pack",
+        "uuid": "7710A2C8-D951-11EA-87D0-0242AC130003",
+        "version": [1, 0, 1],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "description": "Better Rain Immersion for Minecraft • kaomc.carrd.co",
+            "type": "resources",
+            "uuid": "7710A552-D951-11EA-87D0-0242AC130003",
+            "version": [1, 0, 1]
+        }
+    ],
+	   "subpacks": [
+   {
+      "folder_name": "Mystic Rain Sounds Only",
+      "name": "§3Mystic§r Rain §9Sounds§r Only§r - §oEnables Mystic Rain Sounds Only.",
+      "memory_tier": 1
+	    },
+   {
+      "folder_name": "Mystic Rain Particles & Sounds",
+      "name": "§3Mystic§r Rain §aParticles§r & §9Sounds§r - §oEnables Mystic Rain Sounds, New Rain Particles, and Other New Particles.",
+      "memory_tier": 2
+    }
+    ]
+}
