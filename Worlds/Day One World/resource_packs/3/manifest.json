@@ -1,0 +1,30 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "BETTER SKY POCKET EDITION BY 老红 RON",
+      "name" : "BSPE",
+      "uuid" : "7232919d-795c-34ec-b3d1-962a4f9eadd2",
+      "version" : [ 9, 0, 3 ]
+   },
+   "modules" : [
+      {
+         "description" : "--",
+         "type" : "resources",
+         "uuid" : "53634fac-a276-41e5-843f-a3c6f169a9ab",
+         "version" : [ 9, 0, 3 ]
+     }
+   ],
+   "subpacks": [
+   {
+      "folder_name": "CARTOON",
+      "name": "cartooney clouds",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "REAL",
+      "name": "realistic clouds",
+      "memory_tier": 1
+      }
+   ]
+}
+
