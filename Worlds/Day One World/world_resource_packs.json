@@ -1,0 +1,45 @@
+
+[
+	
+	{
+		"pack_id" : "7710a2c8-d951-11ea-87d0-0242ac130003",
+		"subpack" : "Mystic Rain Particles & Sounds",
+		"version" : [ 1, 0, 1 ]
+	},
+	
+	{
+		"pack_id" : "0c518b4a-3189-48fa-9d4c-45cfae578730",
+		"subpack" : "fivehundred",
+		"version" : [ 1, 0, 1 ]
+	},
+	
+	{
+		"pack_id" : "7b9eec71-9a72-48ed-ad6d-59a7202bc7f9",
+		"version" : [ 1, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "ca1b6323-2a59-4dee-8f15-1e1971e83852",
+		"version" : [ 1, 5, 35 ]
+	},
+	
+	{
+		"pack_id" : "327bf286-4e15-4212-9aa8-39fa09178a05",
+		"version" : [ 1, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "8edff403-1c79-4bbc-8dd4-86260d4b53cd",
+		"version" : [ 1, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "32b7ecbc-7c5d-11eb-9439-0242ac130002",
+		"version" : [ 1, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "8d9f4c7e-78c0-4a18-97dc-8a65788c718d",
+		"version" : [ 1, 0, 0 ]
+	}
+]
