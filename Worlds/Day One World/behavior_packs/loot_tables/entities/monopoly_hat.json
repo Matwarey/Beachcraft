@@ -1,0 +1,14 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "mcdees:mcdonalds_monopoly_game_piece",
+					"weight": 1
+				}
+			]
+		}
+	]
+}
