@@ -1,0 +1,40 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Durability Viewer",
+		"uuid": "0c518b4a-3189-48fa-9d4c-45cfae578730",
+		"version": [ 1, 0, 1 ],
+		"description": "Show durability values when in the hotbar, armor grid, and when clicking an item in a container.\n1.16.100+ version.",
+		"min_engine_version": [ 1, 16, 100 ]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "9e4a00e9-6824-4ed2-b635-e7ab2480b956",
+			"version": [ 1, 0, 1 ],
+			"description": "Show durability values when in the hotbar, armor grid, and when clicking an item in a container.\n1.16.100+ version."
+		}
+	],
+	"subpacks": [
+    {
+      "folder_name": "all",
+			"name": "§bShow all durability numbers\n\n§l§cWARNING: §r§eMay negatively impact performance",
+			"memory_tier": 0
+    },
+    {
+      "folder_name": "performance",
+      "name": "§bRound durability numbers in the hundreds & thousands\n\n§r§aBest for performance",
+			"memory_tier": 0
+    },
+    {
+      "folder_name": "middle",
+      "name": "§bRound durability numbers in the thousands\n\n§r§aBest for casual use but may impact performance",
+			"memory_tier": 0
+    },
+    {
+      "folder_name": "fivehundred",
+      "name": "§bRound durability numbers above 500\n\n§r§aBest for casual use",
+			"memory_tier": 0
+    }
+	]
+}
