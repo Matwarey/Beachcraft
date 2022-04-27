@@ -1,0 +1,45 @@
+{
+   "format_version": 1,
+   "header": {          
+      "description": "Created by The Hybred. Twitter @TheHybred YouTube @Hybred. §bTextureless Version",
+      "name": "§6Console | PC §bShaders",
+      "uuid": "51704c59-6073-31f1-bfac-3dadfa3bdf84",
+      "version": [3, 0, 3],
+      "min_engine_version": [1, 2, 6]
+   },    
+   "modules": [
+      {
+         "description": "Created by The Hybred. Twitter @TheHybred YouTube @Hybred.",
+            "type": "resources",
+            "uuid": "f2c37149-eded-57b8-749f-ae95facf4e3b",
+            "version": [3, 0, 2]
+      }
+   ],
+   "subpacks": [ 
+         {
+      "folder_name": "foliage_only",
+      "name": "§6Waving Foliage Only",
+      "memory_tier": 1
+      },
+   {
+   "folder_name": "default_sky",
+      "name": "§6Default Sky",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "realistic_sky3",
+      "name": "§6Shader Sky 3",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "realistic_sky2",
+      "name": "§6Shader Sky 2",
+      "memory_tier": 1
+      },
+   {
+   "folder_name": "realistic_sky1",
+      "name": "§6Shader Sky 1",
+      "memory_tier": 1
+      }
+   ]
+}
