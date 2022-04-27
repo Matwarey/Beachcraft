@@ -35,7 +35,7 @@
   },
   "csc:main_logo_sidebar": { // Identifies the main image, HUD location, texture, anchor, etc.
     "type": "image",
-    "texture": "textures/sidebar_logo/logo",
+    "texture": "textures/sidebarlogo",
     "anchor_from": "right_middle",
     "anchor_to": "right_middle",
     "size": [
