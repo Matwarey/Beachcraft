@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "By GustavoLank8653",
+        "name": "Sit Anywhere",
+        "uuid": "8d9f4c7e-78c0-4a18-97dc-8a65788c718d",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "description": "By GustavoLank8653",
+            "type": "resources",
+            "uuid": "5fe6a199-c4b1-469e-a91a-c97c67333332",
+            "version": [1, 0, 0]
+        }
+    ]
+}

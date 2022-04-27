@@ -1,0 +1,27 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.player.sneaking": {
+       "loop" : true,
+		 	"bones" : {
+				"leftarm" : {
+					"rotation" : [ -36.0, 0.0, 0.0 ]
+				},
+				"rightarm" : {
+					"rotation" : [ -36.0, 0.0, 0.0 ]
+				},
+          "leftleg" : {
+					"rotation" : [ "-72.0 - this", "-18.0 - this", "-this" ],
+          "position" : [ 0.0, -10.0, 0.0 ]
+				},
+				"rightleg" : {
+					"rotation" : [ "-72.0 - this", "18.0 - this", "-this" ],
+          "position" : [ 0.0, -10.0, 0.0 ]
+				},
+          "waist" : {
+					"position" : [ 0.0, -10.0, 0.0 ]
+				}
+			}
+        }
+    }
+}
