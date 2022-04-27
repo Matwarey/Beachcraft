@@ -1,89 +1,50 @@
 {
-  "namespace": "debug_screen",
-
-  //--------------------------------------------------------------------------------
-  // Access Console
-  //--------------------------------------------------------------------------------
-
-  "access_button@common_buttons.light_content_button": {
-    "$pressed_button_name": "button.access",
-    "size": [ 20, 20 ],
-    "offset": [ 20, 20 ],
-    "anchor_to": "top_left",
-    "anchor_from": "top_left",
-    "bindings": [
-      {
-        "binding_name": "#access_screen_visible",
-        "binding_name_override": "#visible"
-      }
-    ]
-  },
-
-  //--------------------------------------------------------------------------------
-  // Pack Info
-  //--------------------------------------------------------------------------------
-
-  "pack_info": {
+  "New_Player_Animation_UI": {
     "type": "label",
     "text": "§eBeachCraft ► §eA Beautiful Beach",
-    "color": [ 1.0, 1.0, 0.0 ],
     "shadow": true,
-    "font_size": "medium",
-    "visible": "$pack_info_debug",
+    "font_size": "left",
+    "offset": [33, 7],
     "anchor_from": "bottom_right",
-    "anchor_to": "bottom_right",
-    "alpha": 11
+    "anchor_to": "bottom_right"
   },
-    //--------------------------------------------------------------------------------
-  // Beta Info
-  //--------------------------------------------------------------------------------
-
-  "special_render": {
-    "type": "label",
-    "text": "",
-    "color": [ 1.0, 1.0, 1.0 ],
-    "shadow": true,
-    "font_size": "medium",
-    "visible": "$pack_info_debug",
-    "text_alignment": "center",
-    "anchor_from": "top_middle",
-    "anchor_to": "top_middle",
-    "alpha": 10
+    "New_Player_Animation_UI1": {
+     "type": "label",
+     "text": ""
+     "shadow": true,
+     "font_size": "left",
+     "offset": [33, 17],
+     "anchor_from": "bottom_right",
+     "anchor_to": "bottom_right"
   },
-
-//--------------------------------------------------------------------------------
-  // Debug Global Screen Panel 
-  //--------------------------------------------------------------------------------
-
-  "debug_global_screen_panel": {
+    "New_Player_Animation_Image": {
+     "type": "image",
+     "texture": "textures/logo",
+     "anchor_from": "bottom_right",
+     "anchor_to": "bottom_right",
+     "offset": [5, 5],
+     "size": [23, 23],
+     "layer": 3
+  },
+    "special_render": {
+      "type": "custome",
+      "renderer": "debug_screen_renderer"
+  },
+  "content_panel": {
     "type": "panel",
-    "clips_children": false,
-    "size": [ "100%", "100%" ],
     "controls": [
-      { "access_button@debug_screen.access_button": { } },
-      { "special_render@debug_screen.special_render": { } },
-      { "FPS_desktop@debug_screen.FPS_desktop": { } },
-      { "pack_info@debug_screen.pack_info": { } }
+      { 
+        "New_Player_Animation_UI@debug_screen.New_Player_Animation_UI": {} 
+      },
+      { 
+        "New_Player_Animation_UI1@debug_screen.New_Player_Animation_UI1": {} 
+      },
+      { 
+        "New_Player_Animation_Image@debug_screen.New_Player_Animation_Image": {} 
+      },
+      {
+        "special_render@debug_screen.special_render": {}
+      }
     ]
-  },
-
-  //--------------------------------------------------------------------------------
-  // Debug Screen
-  //--------------------------------------------------------------------------------
-
-  "debug_screen@common.base_screen": {
-    "send_telemetry": false,
-    "screen_not_flushable": true,
-    "render_game_behind": true,
-    "is_showing_menu": false,
-    "low_frequency_rendering": true,
-    "is_modal": true,
-    "should_steal_mouse": false,
-    "render_only_when_topmost": false,
-    "screen_draws_last": true,
-    "always_accepts_input": true,
-    "$screen_content": "debug_screen.debug_global_screen_panel",
-    "$screen_animations": [],
-    "$use_loading_bars": false
   }
 }
