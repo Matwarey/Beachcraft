@@ -1,0 +1,89 @@
+//Edited by @alexansolo
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "potion_bottle_drinkable": {
+      "textures": [
+        "textures/items/potion_bottle_drinkable",
+        "textures/items/normal/potion_bottle_moveSpeed",
+        "textures/items/normal/potion_bottle_moveSlowdown",
+        "textures/items/potion_bottle_digSpeed",
+        "textures/items/potion_bottle_digSlowdown",
+        "textures/items/normal/potion_bottle_damageBoost",
+        "textures/items/normal/potion_bottle_heal",
+        "textures/items/normal/potion_bottle_harm",
+        "textures/items/normal/potion_bottle_jump",
+        "textures/items/potion_bottle_confusion",
+        "textures/items/normal/potion_bottle_regeneration",
+        "textures/items/potion_bottle_resistance",
+        "textures/items/normal/potion_bottle_fireResistance",
+        "textures/items/normal/potion_bottle_waterBreathing",
+        "textures/items/normal/potion_bottle_invisibility",
+        "textures/items/potion_bottle_blindness",
+        "textures/items/normal/potion_bottle_nightVision",
+        "textures/items/potion_bottle_hunger",
+        "textures/items/normal/potion_bottle_weakness",
+        "textures/items/normal/potion_bottle_poison",
+        "textures/items/normal/potion_bottle_wither",
+        "textures/items/potion_bottle_healthBoost",
+        "textures/items/potion_bottle_absorption",
+        "textures/items/potion_bottle_saturation",
+        "textures/items/potion_bottle_levitation",
+       "textures/items/normal/potion_bottle_turtleMaster",
+       "textures/items/normal/potion_bottle_slowFall"
+      ]
+    },
+    "potion_bottle_lingering": {
+      "textures": [
+        "textures/items/potion_bottle_lingering",
+        "textures/items/linger/potion_bottle_lingering_moveSpeed",
+        "textures/items/linger/potion_bottle_lingering_moveSlowdown",
+        "textures/items/linger/potion_bottle_lingering_damageBoost",
+        "textures/items/linger/potion_bottle_lingering_heal",
+        "textures/items/linger/potion_bottle_lingering_harm",
+        "textures/items/linger/potion_bottle_lingering_jump",
+        "textures/items/linger/potion_bottle_lingering_regeneration",
+        "textures/items/linger/potion_bottle_lingering_fireResistance",
+        "textures/items/linger/potion_bottle_lingering_waterBreathing",
+        "textures/items/linger/potion_bottle_lingering_invisibility",
+        "textures/items/linger/potion_bottle_lingering_nightVision",
+        "textures/items/linger/potion_bottle_lingering_weakness",
+        "textures/items/linger/potion_bottle_lingering_poison",
+        "textures/items/linger/potion_bottle_lingering_wither",
+        "textures/items/linger/potion_bottle_lingering_turtleMaster",
+        "textures/items/linger/potion_bottle_lingering_slowFall"
+      ]
+    },
+    "potion_bottle_splash": {
+      "textures": [
+        "textures/items/potion_bottle_splash",
+        "textures/items/splash/potion_bottle_splash_moveSpeed",
+        "textures/items/splash/potion_bottle_splash_moveSlowdown",
+        "textures/items/potion_bottle_splash_digSpeed",
+        "textures/items/potion_bottle_splash_digSlowdown",
+        "textures/items/splash/potion_bottle_splash_damageBoost",
+        "textures/items/splash/potion_bottle_splash_heal",
+        "textures/items/splash/potion_bottle_splash_harm",
+        "textures/items/splash/potion_bottle_splash_jump",
+        "textures/items/potion_bottle_splash_confusion",
+        "textures/items/splash/potion_bottle_splash_regeneration",
+        "textures/items/potion_bottle_splash_resistance",
+        "textures/items/splash/potion_bottle_splash_fireResistance",
+        "textures/items/splash/potion_bottle_splash_waterBreathing",
+        "textures/items/splash/potion_bottle_splash_invisibility",
+        "textures/items/potion_bottle_splash_blindness",
+        "textures/items/splash/potion_bottle_splash_nightVision",
+        "textures/items/potion_bottle_splash_hunger",
+        "textures/items/splash/potion_bottle_splash_weakness",
+        "textures/items/splash/potion_bottle_splash_poison",
+        "textures/items/splash/potion_bottle_splash_wither",
+        "textures/items/potion_bottle_splash_healthBoost",
+        "textures/items/potion_bottle_splash_absorption",
+        "textures/items/potion_bottle_splash_saturation",
+        "textures/items/splash/potion_bottle_splash_turtleMaster",
+        "textures/items/splash/potion_bottle_splash_slowFall"
+      ]
+    }
+  }
+}
