@@ -3,14 +3,14 @@
     "header": {
         "description": "§eBeachCraft Resource",
         "name": "§¶§cBeachCraft ► §eBeachCraft's Resource Pack",
-        "uuid": "ca1b6323-2a59-4dee-8f15-1e1971e83852",
+        "uuid": "6d58188d-62ae-4ce6-8b72-175017045391",
         "version": [1, 5, 35]
     },
     "modules": [
         {
             "description": "§eBeachCraft Resource",
             "type": "resources",
-            "uuid": "0347f1d2-9b74-4036-82de-53062337ee49",
+            "uuid": "21400885-3031-4395-b619-a1590993f152",
             "version": [1, 5, 35]
         }
     ]
